@@ -16,3 +16,8 @@ $ ./bin/mkt
 ### Testing
 
 ``make test``
+
+### Architecture
+
+![Async REQ/REP](https://github.com/imatix/zguide/raw/master/images/fig38.png)
+
